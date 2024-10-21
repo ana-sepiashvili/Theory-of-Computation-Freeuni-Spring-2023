@@ -1,4 +1,4 @@
-# Theoretical-Informatics
+# Theoretical-Informatics - Assignment 1
 
 NFA Regex Engine
 This project implements a Non-deterministic Finite Automaton (NFA) for regular expression processing. It consists of two main components:
